@@ -1,0 +1,12 @@
+names:
+- car
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: car-detection-kz4wd
+  url: https://universe.roboflow.com/van-khanh-tran/car-detection-kz4wd/dataset/1
+  version: 1
+  workspace: van-khanh-tran
+test: ../test/images
+train: ../train/images
+val: ../valid/images
